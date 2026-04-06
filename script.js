@@ -19,6 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // 3. Data: Memories and Locations
     const recuerdos = [
         {
+            coords: [43.3614, -5.8593],
+            foto: "fotos/Asturias.jpeg",
+            texto: "Asturias 🌳",
+            id: "asturias"
+        },
+        {
             coords: [41.3851, 2.1734],
             foto: "fotos/Barcelona.jpeg",
             texto: "Barcelona ❤️",
